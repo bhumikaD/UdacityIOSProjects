@@ -36,7 +36,6 @@
                                 <connections>
                                     <action selector="displayLyrics:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="Rwe-Qa-6S3"/>
                                     <action selector="reset:" destination="BYZ-38-t0r" eventType="editingDidBegin" id="FFR-gu-16z"/>
-                                    <action selector="reset:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="jbl-sf-BDP"/>
                                     <outlet property="delegate" destination="BYZ-38-t0r" id="Um3-SN-hvZ"/>
                                 </connections>
                             </textField>

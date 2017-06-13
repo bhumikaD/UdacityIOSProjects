@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5A49D3CB1EEEC69E001BECDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A49D3CA1EEEC69E001BECDC /* AppDelegate.swift */; };
-		5A49D3CD1EEEC69E001BECDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A49D3CC1EEEC69E001BECDC /* ViewController.swift */; };
-		5A49D3D01EEEC69E001BECDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A49D3CE1EEEC69E001BECDC /* Main.storyboard */; };
-		5A49D3D21EEEC69E001BECDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A49D3D11EEEC69E001BECDC /* Assets.xcassets */; };
-		5A49D3D51EEEC69E001BECDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A49D3D31EEEC69E001BECDC /* LaunchScreen.storyboard */; };
+		5A47E8D81EF03CDB00E5577C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A47E8D51EF03CDB00E5577C /* AppDelegate.swift */; };
+		5A47E8DA1EF03CDB00E5577C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A47E8D71EF03CDB00E5577C /* ViewController.swift */; };
+		5A47E8E11EF03EF400E5577C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A47E8C91EF03BE300E5577C /* Assets.xcassets */; };
+		5A47E8F31EF03F8900E5577C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A47E8F21EF03F8900E5577C /* Main.storyboard */; };
+		5A47E8F51EF03F9900E5577C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A47E8F41EF03F9900E5577C /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A47E8C91EF03BE300E5577C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5A47E8D51EF03CDB00E5577C /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5A47E8D61EF03CDB00E5577C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A47E8D71EF03CDB00E5577C /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5A47E8F21EF03F8900E5577C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5A47E8F41EF03F9900E5577C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A49D3C71EEEC69E001BECDC /* FunnyLyrics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunnyLyrics.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A49D3CA1EEEC69E001BECDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5A49D3CC1EEEC69E001BECDC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5A49D3CF1EEEC69E001BECDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5A49D3D11EEEC69E001BECDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5A49D3D41EEEC69E001BECDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5A49D3D61EEEC69F001BECDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +54,12 @@
 		5A49D3C91EEEC69E001BECDC /* FunnyLyrics */ = {
 			isa = PBXGroup;
 			children = (
-				5A49D3CA1EEEC69E001BECDC /* AppDelegate.swift */,
-				5A49D3CC1EEEC69E001BECDC /* ViewController.swift */,
-				5A49D3CE1EEEC69E001BECDC /* Main.storyboard */,
-				5A49D3D11EEEC69E001BECDC /* Assets.xcassets */,
-				5A49D3D31EEEC69E001BECDC /* LaunchScreen.storyboard */,
-				5A49D3D61EEEC69F001BECDC /* Info.plist */,
+				5A47E8D51EF03CDB00E5577C /* AppDelegate.swift */,
+				5A47E8D61EF03CDB00E5577C /* Info.plist */,
+				5A47E8D71EF03CDB00E5577C /* ViewController.swift */,
+				5A47E8F41EF03F9900E5577C /* LaunchScreen.storyboard */,
+				5A47E8F21EF03F8900E5577C /* Main.storyboard */,
+				5A47E8C91EF03BE300E5577C /* Assets.xcassets */,
 			);
 			path = FunnyLyrics;
 			sourceTree = "<group>";
@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					5A49D3C61EEEC69E001BECDC = {
 						CreatedOnToolsVersion = 8.3.2;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,9 +124,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A49D3D51EEEC69E001BECDC /* LaunchScreen.storyboard in Resources */,
-				5A49D3D21EEEC69E001BECDC /* Assets.xcassets in Resources */,
-				5A49D3D01EEEC69E001BECDC /* Main.storyboard in Resources */,
+				5A47E8E11EF03EF400E5577C /* Assets.xcassets in Resources */,
+				5A47E8F51EF03F9900E5577C /* LaunchScreen.storyboard in Resources */,
+				5A47E8F31EF03F8900E5577C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,31 +137,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A49D3CD1EEEC69E001BECDC /* ViewController.swift in Sources */,
-				5A49D3CB1EEEC69E001BECDC /* AppDelegate.swift in Sources */,
+				5A47E8DA1EF03CDB00E5577C /* ViewController.swift in Sources */,
+				5A47E8D81EF03CDB00E5577C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		5A49D3CE1EEEC69E001BECDC /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5A49D3CF1EEEC69E001BECDC /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5A49D3D31EEEC69E001BECDC /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5A49D3D41EEEC69E001BECDC /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5A49D3D71EEEC69F001BECDC /* Debug */ = {
@@ -262,10 +244,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FunnyLyrics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "dwivedi-Bhooms.FunnyLyrics";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -274,10 +259,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FunnyLyrics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "dwivedi-Bhooms.FunnyLyrics";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -301,6 +288,7 @@
 				5A49D3DB1EEEC69F001BECDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
