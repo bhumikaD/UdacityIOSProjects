@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BBA3C25E553093622EF273002E19C9D05F6EABC0" : 9223372036854775807,
+    "F7FA4E9A5566F6BF725D473E8FB5E21D6752DBB5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ECF7C6FB-8D2A-4AA7-B9AD-516230450CFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BBA3C25E553093622EF273002E19C9D05F6EABC0" : "..\/..",
+    "F7FA4E9A5566F6BF725D473E8FB5E21D6752DBB5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FunnyLyrics",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FunnyLyrics.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bhumikaD\/UdacityIOSProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BBA3C25E553093622EF273002E19C9D05F6EABC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bhumikaD\/UdacityIOSProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7FA4E9A5566F6BF725D473E8FB5E21D6752DBB5"
+    }
+  ]
+}
